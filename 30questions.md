@@ -1,4 +1,3 @@
----
 
 ## 1. What is Spring Boot?
 
@@ -10,7 +9,6 @@ Spring Boot is an extension of the Spring Framework that **reduces boilerplate c
 * Embedded servers
 * Auto dependency management
 * Faster development
-
 ---
 
 ## 2. Spring Boot vs Spring Framework
